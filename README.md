@@ -4,10 +4,13 @@
 ```
 npm install
 npm install bootstrap
+npm install bootstrap-vue bootstrap
 npm install axios
 npm install vue-router@next
+
+## Vue Client
 vue add typescript
-npx tsc --init
+All Y
 
 ```
 
