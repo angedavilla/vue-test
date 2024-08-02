@@ -13,6 +13,17 @@ All Y
 
 ```
 
+### if show page from index.html change App.vue code
+<template>
+  <router-view></router-view>
+</template>
+
+<script lang="ts">
+export default {
+  name: 'App',
+};
+</script>
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
