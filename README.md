@@ -3,7 +3,6 @@
 ## Project setup
 ```
 npm install
-npm install bootstrap
 npm install bootstrap-vue bootstrap
 npm install axios
 npm install vue-router@next
